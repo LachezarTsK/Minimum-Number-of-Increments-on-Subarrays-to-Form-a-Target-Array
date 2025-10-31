@@ -3,4 +3,4 @@ Challenge at LeetCode.com. Tags: Simulation, Math, Monotonic Stack.
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-The solution to this problem is just a few lines ofcode. However, the problem is classified as hard and even though this is not the hardest of the hard problems, without tons of practice, it is not easy to come to a solution of just a few lines of code and without using any additional data structures at that. One either could not solve the problem at all, or solve it in quite a convoluted way, without extensive practice.
+The solution to this problem is just a few lines of code. However, the problem is classified as hard and even though this is not the hardest of the hard problems, without tons of practice, it is not easy to come to a solution of just a few lines of code and without using any additional data structures at that. One either could not solve the problem at all, or solve it in quite a convoluted way, without extensive practice.
